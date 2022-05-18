@@ -4,16 +4,20 @@ public class Program
 {
     public static void Main(string[] args)
     {
-
+        //getting the logical drives
         foreach (string drive in Environment.GetLogicalDrives())
-            Console.WriteLine("Drive: {0}", drive);
+            Console.WriteLine($"Drive: {drive}");
 
-        //get system details
-        Console.WriteLine("OS: {0}", Environment.OSVersion);
-        Console.WriteLine("Number of processors: {0}",
+        //string verbatim
+        string filePath = @"C:\televisions\sony\bravia.txt";
 
-        Environment.ProcessorCount);
-        Console.WriteLine(".NET Version: {0}",
-        Environment.Version);
+        //underscore seperator
+        int myInt = 1_000_000;
+
+        //some members of the Console class
+        Console.Title = "My first console app";
+        Console.BackgroundColor = ConsoleColor.DarkBlue;
+        Console.ForegroundColor = ConsoleColor.White;
+        Console.WindowHeight = 40;
     }
 }
