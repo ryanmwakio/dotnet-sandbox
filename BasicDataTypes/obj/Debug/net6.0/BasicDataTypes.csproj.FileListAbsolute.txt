@@ -1,0 +1,15 @@
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.exe
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.deps.json
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.runtimeconfig.json
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.dll
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\bin\Debug\net6.0\BasicDataTypes.pdb
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.csproj.AssemblyReference.cache
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.AssemblyInfoInputs.cache
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.AssemblyInfo.cs
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.csproj.CoreCompileInputs.cache
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.dll
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\refint\BasicDataTypes.dll
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.pdb
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\BasicDataTypes.genruntimeconfig.cache
+D:\coding\projects\c#\BasicDataTypes\BasicDataTypes\obj\Debug\net6.0\ref\BasicDataTypes.dll
